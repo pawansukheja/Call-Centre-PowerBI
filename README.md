@@ -20,12 +20,8 @@ Here's a snapshot of our analytics report:
 •	Highest Abandoned Calls: Diane
 •	We also provided filter options for agents, months, and days for deeper analysis and insights.
 
+•	Live Dashboard - https://app.powerbi.com/view?r=eyJrIjoiZWVhOTMyM2UtN2VkYi00MDhiLTkyM2UtN2RmODU1M2Y4ZjkyIiwidCI6IjdjYWI2MjRmLTM4YzYtNDQ2MS1hYWIzLThjNmYxZmUwODZlYyJ9
 
-![Call Center Dashboard](https://github.com/pawansukheja/Call-Centre-PowerBI/assets/163865690/78f8779b-c45f-4f33-b568-5264fbbd8dfe)
 
-![Call Center Januray](https://github.com/pawansukheja/Call-Centre-PowerBI/assets/163865690/9c86ccc5-a4da-4e07-afc0-5a5030761881)
-
-![Call Center Februray](https://github.com/pawansukheja/Call-Centre-PowerBI/assets/163865690/8ac10b95-f433-4dbb-a01b-b37263544434)
-
-![Call Center March](https://github.com/pawansukheja/Call-Centre-PowerBI/assets/163865690/1c4de9fd-5b2c-44a7-a0b1-b93e1a3e50c0)
+![Call Centre](https://github.com/pawansukheja/Call-Centre-PowerBI/assets/163865690/6983a439-e281-416d-8829-956501cf5eb2)
 
